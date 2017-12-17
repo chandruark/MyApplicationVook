@@ -1,0 +1,7 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">MyApplicationVook</string>
+    <string name="signup_content">Already have an account? </string>
+    <string name="signin_content" >Don\'t have an account? </string>
+    <string name="forgot_content">No worries,happens to most of us!</string>
+    <string name="reset_content">A password reset link will be sent to this email</string>
+</resources>
